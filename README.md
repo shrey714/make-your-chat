@@ -1,3 +1,3 @@
 # make-your-chat
 
-makeyourchat.c1.biz
+http://makeyourchat.c1.biz/
